@@ -1,0 +1,3 @@
+"","Model","RMSE","MAE","R2"
+"lm_metrics","Linear Model (LM)",4.37,3.38,0.31
+"rf_metrics","Random Forest (RF)",4.05,3.07,0.4
