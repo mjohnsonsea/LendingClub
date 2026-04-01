@@ -3,7 +3,8 @@
 Predicting loan interest rates from borrower and loan characteristics available at origination, using Linear Regression and Random Forest models. The Random Forest model achieved an R² of **0.40** with RMSE of **4.05** percentage points, improving on the linear baseline by ~9%.
 
 **Course:** Georgetown MSBA — OPAN 6604: Predictive Analytics  
-**Team:** Emma Cranmer, Mike Johnson, Dylan Lowndes, Izzy Mendoza, Lola Oshodi
+**Team:** Emma Cranmer, Mike Johnson, Dylan Lowndes, Izzy Mendoza, Lola Oshodi  
+**Award:** 1st Place, Course Hackathon Competition
 
 ---
 
