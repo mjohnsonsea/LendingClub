@@ -123,3 +123,7 @@ install.packages(c("tidyverse", "caret", "fastDummies", "cluster",
 | FICO score vs. average interest rate — strong negative relationship | Random Forest variable importance — FICO dominates |
 | ![LM Residuals](reports/figures/lm_residuals_fitted.png) | ![Interest Rate Distribution](reports/figures/histogram_int_rate.png) |
 | Linear model residuals show banding from discrete rate tiers | Multimodal interest rate distribution reveals LendingClub's tier pricing |
+
+---
+
+README written with the assistance of [Claude Code](https://claude.ai/code) by Anthropic.
